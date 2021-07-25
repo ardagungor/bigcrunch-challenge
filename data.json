@@ -1,0 +1,34 @@
+{
+  "modernHouse": {
+    "id": 1,
+    "year": 2018,
+    "work": "Exterior Design",
+    "normalName": "Cennet Koyu",
+    "boldName": "Modern House",
+    "img": "assets/modern-house.png"
+  },
+  "swissOtel": {
+    "id": 2,
+    "year": 2015,
+    "work": "Interior Design",
+    "normalName": "SwissOtel",
+    "boldName": "Bodrum Beach Room",
+    "img": "assets/swissotel.png"
+  },
+  "gundogan": {
+    "id": 3,
+    "year": 2017,
+    "work": "Interior & Exterior Design",
+    "normalName": "OXA",
+    "boldName": "Gündoğan Houses",
+    "img": "assets/gundogan.png"
+  },
+  "stoneHouse": {
+    "id": 4,
+    "year": 2018,
+    "work": "Exterior Design",
+    "normalName": "Cennet Koyu",
+    "boldName": "Stone House",
+    "img": "assets/stone-house.png"
+  }
+}
